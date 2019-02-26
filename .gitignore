@@ -1,1 +1,6 @@
 *.csv
+*.zip
+LANL_Earthquake_Prediction/train
+LANL_Earthquake_Prediction/train/*
+LANL_Earthquake_Prediction/test
+LANL_Earthquake_Prediction/test/*
